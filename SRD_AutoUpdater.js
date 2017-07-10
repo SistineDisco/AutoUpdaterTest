@@ -477,7 +477,7 @@ Scene_AutoUpdate.prototype.setupText = function() {
 	this._text1.bitmap.outlineColor = 'black';
 	this._text1.bitmap.outlineWidth = 4;
 	this._text1.bitmap.fontSize = 72;
-	this._text1._myText = 'Checking Version';
+	this._text1._myText = 'Checking for Updates...';
 	this._text1.bitmap.drawText(this._text1._myText, 0, 0, this._text1.bitmap.width, this._text1.bitmap.height, 'center');
 	this._text1.anchor.x = 0.5;
 	this._text1.anchor.y = 0.5;
