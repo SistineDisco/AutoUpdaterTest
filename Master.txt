@@ -4,5 +4,5 @@
 <End of Version>
 
 <Version: 1.02>
-/js/plugins/
+/js/plugins/YEP_ExternalLinks https://raw.githubusercontent.com/SistineDisco/AutoUpdaterTest/master/YEP_ExternalLinks.js
 <End of Version>
