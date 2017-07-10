@@ -11,3 +11,8 @@
 /data/Map001.json https://raw.githubusercontent.com/SistineDisco/AutoUpdaterTest/master/Map001.json
 /js/plugins/YEP_ExternalLinks.js https://raw.githubusercontent.com/SistineDisco/AutoUpdaterTest/master/YEP_ExternalLinks.js
 <End of Version>
+
+<Version: 1.04>
+/data/Map001.json https://raw.githubusercontent.com/SistineDisco/AutoUpdaterTest/master/Map001.json
+/plugins/YEP_ExternalLinks.js https://raw.githubusercontent.com/SistineDisco/AutoUpdaterTest/master/YEP_ExternalLinks.js
+<End of Version>
