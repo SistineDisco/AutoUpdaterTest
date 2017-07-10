@@ -11,7 +11,7 @@
 /js/plugins.js https://raw.githubusercontent.com/SistineDisco/AutoUpdaterTest/master/plugins.js
 <End of Version>
 
-<Version: 1.02>
+<Version: 1.03>
 /data/Map001.json https://raw.githubusercontent.com/SistineDisco/AutoUpdaterTest/master/Map001.json
 /js/plugins/YEP_ExternalLinks.js https://raw.githubusercontent.com/SistineDisco/AutoUpdaterTest/master/YEP_ExternalLinks.js
 /js/plugins/SRD_AutoUpdater.js https://raw.githubusercontent.com/SistineDisco/AutoUpdaterTest/master/SRD_AutoUpdater.js
